@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JapanCat
+- 👋 Hi, I’m @Moshii
 - 👀 I’m interested in software development/game development
 - 🌱 I’m currently learning Java, algorithms and databases
 - 💞️ I’m looking to collaborate on ...
